@@ -15,8 +15,8 @@
 
 - Task 6: Create Brand column and check if there is strong releation with Price and data are distrbuted good in this dataset.
 
-- Task 4: Deal with wrong data before visualize it.
+- Task 7: Deal with wrong data before visualize it.
 
-- Task 5: Creating visual methods to analyze the data.
+- Task 8: Creating visual methods to analyze the data.
 
-- Task 6: Investigate outliers in each column to decide how we will deal with
+- Task 9: Investigate outliers in each column to decide how we will deal with
